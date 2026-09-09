@@ -1,0 +1,19 @@
+# Node & Dependencies
+node_modules/
+.pnpm-store/
+
+# Playwright Test Artifacts
+test-results/
+playwright-report/
+playwright/.cache/
+blob-report/
+
+# OS & IDE Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local Environment Variables & Logs
+.env
+*.log
